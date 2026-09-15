@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you reference this review, please cite it as below."
+title: "VR/AR and the Human Brain: Neuroscience Evidence Review"
+type: article
+authors:
+  - family-names: Nasr
+    given-names: Joe
+repository-code: "https://github.com/Joenasriani/vr-and-the-brain"
+url: "https://joenasriani.github.io/vr-and-the-brain/"
+abstract: "Independent narrative evidence review on virtual and augmented reality, cognition, brain health, neuroplasticity, neurorehabilitation, presence and cybersickness."
+keywords:
+  - virtual reality neuroscience
+  - VR brain health
+  - neuroplasticity
+  - cognition
+  - neurorehabilitation
+  - cybersickness
+  - human-computer interaction
+  - immersive technology
