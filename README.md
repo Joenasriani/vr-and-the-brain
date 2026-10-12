@@ -1,4 +1,4 @@
-# VR/AR and the Human Brain — Neuroscience Evidence Review
+# VR/AR and the Human Brain: Neuroscience Evidence Review
 
 **Author:** Joe Nasr / QuestRequestVR  
 **Live review:** https://joenasriani.github.io/vr-and-the-brain/  
