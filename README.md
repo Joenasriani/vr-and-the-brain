@@ -48,7 +48,7 @@ Published reviews support a cautious picture:
 - Evidence about long-term brain-health effects is substantially less complete than evidence about short-term performance, symptoms or rehabilitation outcomes.
 - Neural changes reported in particular studies should not be generalized to all VR use.
 
-## Selected literature anchors
+## References
 
 - Sokołowska B. **Being in Virtual Reality and Its Influence on Brain Health—An Overview of Benefits, Limitations and Prospects.** *Brain Sciences*. 2024;14(1):72. PMID: 38248287. https://pubmed.ncbi.nlm.nih.gov/38248287/
 - Li X, Zhang Y, Tang L, et al. **Effects of virtual reality-based interventions on cognitive function, emotional state, and quality of life in patients with mild cognitive impairment: a meta-analysis.** *Frontiers in Neurology*. 2025;16:1496382. PMID: 40242620. https://pubmed.ncbi.nlm.nih.gov/40242620/
